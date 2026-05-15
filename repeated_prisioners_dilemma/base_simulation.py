@@ -10,7 +10,7 @@ Original file is located at
 
 This is a cadCAD implementation of a Generalized Dynamical Systems representation of the Repeated Prisioners Dilemma
 
-Authors: Michael Zargham (zargham@block.science), Danilo Lessa Bernardineli (danilo@block.science) and Matt Stephenson (matt@block.science)
+Authors: Michael Zargham (zargham@dynamicalsystemsgroup.com), Danilo Lessa Bernardineli (danilo@dynamicalsystemsgroup.com) and Matt Stephenson (matt@dynamicalsystemsgroup.com)
 """
 
 # Commented out IPython magic to ensure Python compatibility.
